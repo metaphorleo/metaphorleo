@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in Python and JavaScript mainly
 - 🌱 I’m currently learning databases, front and back-end development
-- 📫 You can reach me @ <a href="https://www.linkedin.com/in/leonardo-trindade-metaphorleo/">LinkedIn</a>
+- 📫 You can reach me at <a href="https://www.linkedin.com/in/leonardo-trindade-metaphorleo/">LinkedIn</a>
 
 <!---
 metaphorleo/metaphorleo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
