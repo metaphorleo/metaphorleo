@@ -1,7 +1,7 @@
 ## Hi 👋 I’m Leonardo Trindade
 
 - 👀 I’m interested in Python and JavaScript mainly
-- 🌱 I’m currently learning front and back-end development
+- 🌱 I’m currently learning databases, front and back-end development
 - 📫 You can reach me @ <a href="https://www.linkedin.com/in/leonardo-trindade-metaphorleo/">LinkedIn</a>
 
 <!---
