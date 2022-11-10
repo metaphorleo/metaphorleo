@@ -1,4 +1,4 @@
-## Hi 👋 I’m Leonardo Trindade aka metaphorleo
+## Hi 👋 I’m Leonardo Trindade
 
 - 👀 I’m interested in Python and JavaScript mainly
 - 🌱 I’m currently learning front and back-end development
